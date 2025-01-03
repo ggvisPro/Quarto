@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  title: "ggvis's blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/ggvisPro
+format:
+  html:
+    theme: cosmo
+    css: styles.css
